@@ -4,4 +4,4 @@
 
 # 👀 Hey there, curious one! 
 
-This organization is for internal code management reasons for wind room only. If you would like to play the game, check it out [here](https://www.roblox.com/games/10391520517/Wind-Room-BETA) :)
+This organization is for internal code management reasons for wind room only. If you would like to play the game, check it out [here](https://playwindroom.netlify.app) :)
